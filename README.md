@@ -14,8 +14,6 @@
        <h1>Happy Valentine's Day</h1>
       </div>
     </header>
-
-
     <div class="container">
         <h2>Masukan Password!</h2>
         <div class="keypad">
@@ -38,7 +36,6 @@
         </div>
         <p id="message"></p>
     </div>
-    
     <script src="script.js"></script>
 </body>
 </html>
