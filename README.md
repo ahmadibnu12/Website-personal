@@ -8,12 +8,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <br><br><br><br><br><br>
+   
     <header>
       <div class="main-container">
        <h1>Happy Valentine's Day</h1>
       </div>
     </header>
+    
     <div class="container">
         <h2>Masukan Password!</h2>
         <div class="keypad">
@@ -34,11 +35,16 @@
                 <button onclick="checkPassword()">OK</button>
             </div>
         </div>
+        
         <p id="message"></p>
     </div>
+    
     <script src="script.js"></script>
+    
 </body>
+
 </html>
+
 
 header h1 {
     display: flex;
